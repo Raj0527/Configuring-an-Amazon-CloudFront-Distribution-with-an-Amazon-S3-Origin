@@ -14,6 +14,9 @@ Through this lab, I achieved the following objectives:
 - Configured OAC to enhance security and prevent direct access to the S3 bucket.
 - Updated Amazon S3 resource policies for controlled access.
 
+## Project Architecture
+![CloudFront](https://github.com/user-attachments/assets/eda9c54d-3368-4409-944c-e512ee481c72)
+
 ## Project Tasks
 
 ### Task 1: Explore the Existing CloudFront Distribution
